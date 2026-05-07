@@ -8,7 +8,7 @@ export default function task2Page() {
             <p>Design</p>
         </div>
         <div>
-        <h1 className="text-3xl font-bold">ADOBE PHOTOSHOP</h1>
+        <h1 className="text-3xl font-bold">Adobe Photoshop</h1>
         <div className="flex justify-between items-end">
         <p>in 3 days</p>
         <div className="flex mt-3">
