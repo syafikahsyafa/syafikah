@@ -1,3 +1,5 @@
+import Button from "./_components/button";
+
 export default function navbar (){
     return (
 
@@ -5,10 +7,7 @@ export default function navbar (){
 
         <div className="bg-white h-full w-60">
 
-            <div className="flex gap-2 p-2 flex items-center">
-                <img src="layout-dashboard.svg"/>
-                <button className="text-black font-bold text-serif">Dashboard</button>
-            </div>
+           <Button icon="/laylout-dashboard" nama="Dashboard"/>
 
             <div className="flex gap-2 p-2 flex items-center">
                 <img src="message-circle.svg"/>
