@@ -13,15 +13,16 @@ export default function holiday(){
             </div>
 
         </div>
+        <div>
         <div className="flex">
                 <img src="tag.svg"/>
                 <p>from $240</p>
         </div>
-        <div className="flex flex justify-between">
+        <div className="flex flex">
                 <img src="plane-tilt.svg"/>
                 <p>SFO</p>
         </div>
-        
+        </div>
     </div>
 </div>
     );
